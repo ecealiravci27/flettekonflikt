@@ -4,7 +4,5 @@ public class flettekonflikt {
         int b = 2;
 
         System.out.println(a+" + "+b+" giver = "+(a+b));
-
-        //hej fra master
     }
 }
